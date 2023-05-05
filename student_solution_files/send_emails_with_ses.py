@@ -40,7 +40,7 @@ def lambda_handler(event, context):
     # Replace recipient@example.com with a "To" address. If your account 
     # is still in the sandbox, this address must be verified.
     # --- Insert your code here ---
-    RECIPIENT = dec_dict['email']
+    RECIPIENT = 'shennugao@icloud.com'
     # -----------------------------
 
 
